@@ -11,6 +11,7 @@
 ## درس کارشناسی
 [طراحی واسط کاربر 1322110_01](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin#TOC)
 <br>
+[01-1322110 تعامل انسان و کامپیوتر](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction#TOC)
 
 ## روز و ساعت ارائه دروس
 <table style="width:100%">
@@ -42,7 +43,7 @@
         <th ></th>
         <th ></th>
         <th><a  href="https://alirazavi-edu.github.io/PNU_3991/_BSc/UserInterfaceDesgin/index.html">طراحي واسط كاربر</a></th>
-        <th></th>
+        <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction#TOC">تعامل انسان و کامپیوتر</a></th>
         <th ></th>
         <th>دوشنبه</th>
     </tr>
