@@ -9,8 +9,6 @@
  
    ## Winter Semester Courses 1399/2020
 ## درس کارشناسی
-[تعامل انسان و کامپیوتر 1322108_01](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction#TOC)
-<br>
 [طراحی واسط کاربر 1322110_01](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin#TOC)
 <br>
 
@@ -44,7 +42,7 @@
         <th ></th>
         <th ></th>
         <th><a  href="https://alirazavi-edu.github.io/PNU_3991/_BSc/UserInterfaceDesgin/index.html">طراحي واسط كاربر</a></th>
-        <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction">تعامل انسان و كامپيوتر</a></th>
+        <th></th>
         <th ></th>
         <th>دوشنبه</th>
     </tr>
