@@ -6,8 +6,11 @@
 - [SOP](https://royasafari.github.io/RoyaSafariSOP/)
 - [Readme](https://github.com/royasafari/PNU_3991_AR/)
 ---------------
- 
-   ## Winter Semester Courses 1399/2020
+## ارزیابی ها 
+- [ارزیابی رزومه و انگیزه نامه] (https://github.com/royasafari/PNU_3991_AR/blob/main/General/RS_CV_CheckList_AR_3991.pdf)
+
+---------------
+  ## Winter Semester Courses 1399/2020
 ## درس کارشناسی
 [طراحی واسط کاربر 1322110_01](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin#TOC)
 <br>
