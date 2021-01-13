@@ -7,7 +7,7 @@
 - [Readme](https://github.com/royasafari/PNU_3991_AR/)
 ---------------
 ## ارزیابی ها 
-- [ارزیابی رزومه و انگیزه نامه] (https://github.com/royasafari/PNU_3991_AR/blob/main/General/RS_CV_CheckList_AR_3991.pdf)
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/royasafari/PNU_3991_AR/blob/main/General/RS_CV_CheckList_AR_3991.pdf)
 
 ---------------
   ## Winter Semester Courses 1399/2020
