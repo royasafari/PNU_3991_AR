@@ -3,7 +3,7 @@
 # رویا صفری مقدم
 - [GitHub](https://github.com/royasafari)
 - [Resume](https://royasafari.github.io/) 
-- [SOP](https://royasafari.github.io/RoyaSafariSOP/)
+- [SOP](https://royasafari.github.io/Sop.GitHub.io/)
 - [Readme](https://github.com/royasafari/PNU_3991_AR/)
 ---------------
 > ارزیابی ها 
