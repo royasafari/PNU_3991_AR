@@ -16,14 +16,11 @@
 - [خلاصه ارزیابی درس تعامل انسان و کامپیوتر](
 
 ---------------
-  ## Winter Semester Courses 1399/2020
 ## فهرست درس ها
 [طراحی واسط کاربر 1322110_01](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin#TOC)
 <br>
 [01-1322110 تعامل انسان و کامپیوتر](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction#TOC)
---------------
-## گروه های درسی
---------------
+
 ## روز و ساعت ارائه دروس
 <table style="width:100%">
     <tr>
