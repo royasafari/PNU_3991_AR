@@ -10,7 +10,7 @@
 ## بخش عمومی
 - [ارزیابی رزومه و انگیزه نامه](https://github.com/royasafari/PNU_3991_AR/blob/main/_General/RS_CV_CheckList_AR_3991.pdf)
 - [خلاصه ارزیابی بخش عمومی طراحی واسط کاربر](https://github.com/royasafari/PNU_3991_AR/blob/main/_General/RS_GeneralSection_CheckList_AR_3991.pdf)
-- [خلاصه ارزیابی بخش عمومی تعامل انسان و کامپیوتر](
+- [خلاصه ارزیابی بخش عمومی تعامل انسان و کامپیوتر](https://github.com/royasafari/PNU_3991_AR/blob/main/_General/RS_GeneralSection_CheckList_AR_3991_.pdf)
 
 ---------------
   ## Winter Semester Courses 1399/2020
