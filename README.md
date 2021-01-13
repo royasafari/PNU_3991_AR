@@ -6,7 +6,8 @@
 - [SOP](https://royasafari.github.io/RoyaSafariSOP/)
 - [Readme](https://github.com/royasafari/PNU_3991_AR/)
 ---------------
-## ارزیابی ها 
+> ارزیابی ها 
+## بخش عمومی
 - [ارزیابی رزومه و انگیزه نامه](https://github.com/royasafari/PNU_3991_AR/blob/main/General/RS_CV_CheckList_AR_3991.pdf)
 
 ---------------
