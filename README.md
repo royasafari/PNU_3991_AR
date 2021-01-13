@@ -10,10 +10,14 @@
 ## بخش عمومی
 - [ارزیابی رزومه و انگیزه نامه](https://github.com/royasafari/PNU_3991_AR/blob/main/_General/RS_CV_CheckList_AR_3991.pdf)
 - [خلاصه ارزیابی بخش عمومی ](https://github.com/royasafari/PNU_3991_AR/blob/main/_General/RS_GeneralSection_CheckList_AR_3991.pdf)
+--------------
+## بخش دروس کارشناسی
+- [خلاصه ارزیابی درس طراحی واسط کاربر](
+- [خلاصه ارزیابی درس تعامل انسان و کامپیوتر](
 
 ---------------
   ## Winter Semester Courses 1399/2020
-## درس کارشناسی
+## فهرست درس ها
 [طراحی واسط کاربر 1322110_01](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin#TOC)
 <br>
 [01-1322110 تعامل انسان و کامپیوتر](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction#TOC)
