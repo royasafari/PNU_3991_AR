@@ -93,7 +93,7 @@
             - [طرح دستی قالب رزومه](https://raw.githubusercontent.com/royasafari/PNU_3991_AR/main/UserInterfaceDesign/image/image1.jpeg)
     6. وایرفریم
          - [قالب رزومه]
-            - [()      
+            - [(https://github.com/royasafari/PNU_3991_AR/blob/main/UserInterfaceDesign/image/image2.pdf)      
    
 ------------------------
 </div>
