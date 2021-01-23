@@ -90,7 +90,7 @@
         + رزومه آماده است
     5. طرح دستی
         - [قالب رزومه]
-            - [طرح دستی قالب رزومه](https://raw.githubusercontent.com/royasafari/PNU_3991_AR/main/UserInterfaceDesign/image.jpeg)
+            - [طرح دستی قالب رزومه](https://raw.githubusercontent.com/royasafari/PNU_3991_AR/main/UserInterfaceDesign/image/image1.jpeg)
     6. وایرفریم
          - [قالب رزومه]
             - [()      
