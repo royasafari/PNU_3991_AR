@@ -94,6 +94,7 @@
     6. وایرفریم
          - [قالب رزومه]
             - [وایر فریم قالب رزومه](https://github.com/royasafari/PNU_3991_AR/blob/main/UserInterfaceDesign/image/image2.pdf)      
-   
+   7. ارزیابی
+   - [Prototype Assessment](https://github.com/royasafari/PNU_3991_AR/blob/main/UserInterfaceDesign/Prototype%20Assessment.pdf)
 ------------------------
 </div>
