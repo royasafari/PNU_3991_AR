@@ -50,7 +50,7 @@
  <tr>
  <th  align="center">https://github.com/saharzeinivand/PNU_3991_AR</th>
  <td  align="center">https://saharzeinivand.github.io/Sop/</td>
- <td  align="center">https://github.com/saharzeinivand/</td>
+ <td  align="center">https://saharzeinivand.github.io/</td>
  <td  align="center">سحر زینی وند</td>
  <td  align="center">980173622</td>
  <td align="center">3</td>
