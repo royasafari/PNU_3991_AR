@@ -42,7 +42,7 @@
  <th  align="center">https://github.com/AliRazavi-edu/PNU_3991</th>
  <td  align="center">  </td>
 <td  align="center">  </td>
-<td  align="center">دکتر سید ابراهیم رضوی</td>
+<td  align="center">دکتر سید علی ابراهیمی رضوی</td>
 <td  align="center">   </td>
 <td align="center">2</td>
  </tr>
