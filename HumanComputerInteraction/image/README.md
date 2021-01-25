@@ -1,4 +1,4 @@
-# [PNU_3991 - User Interface Desgin](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_BSc/UserInterfaceDesgin/README.md#TOC)
+# [PNU_3991 - Human Computer Interaction](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_BSc/HumanComputerInteraction/README.md#TOC)
 <div dir="rtl">
     
 <table style="width:100%">
@@ -50,7 +50,7 @@
  <tr>
  <th  align="center">https://github.com/saharzeinivand/PNU_3991_AR</th>
  <td  align="center">https://saharzeinivand.github.io/Sop/</td>
- <td  align="center">https://github.com/saharzeinivand/</td>
+ <td  align="center">https://saharzeinivand.github.io/</td>
  <td  align="center">سحر زینی وند</td>
  <td  align="center">980173622</td>
  <td align="center">3</td>
@@ -94,6 +94,7 @@
     6. وایرفریم
          - [قالب رزومه]
             - [وایر فریم قالب رزومه](https://github.com/royasafari/PNU_3991_AR/blob/main/UserInterfaceDesign/image/image2.pdf)      
-   
+   7. ارزیابی
+   - [Prototype Assessment](https://github.com/royasafari/PNU_3991_AR/blob/main/UserInterfaceDesign/Prototype%20Assessment.pdf)
 ------------------------
 </div>
