@@ -97,6 +97,6 @@
    7. ارزیابی
    - [Prototype Assessment](https://github.com/royasafari/PNU_3991_AR/blob/main/UserInterfaceDesign/Prototype%20Assessment.pdf)
    8. پروژه
-   - [Project](https://github.com/royasafari/Project)
+   - [Project](https://github.com/royasafari/Project/tree/main/HumanComputerInteraction/image/startbootstrap-resume-gh-pages)
 ------------------------
 </div>
